@@ -1,4 +1,6 @@
 # dontchat alpha0.1 (prototype)
+![dontchat logo](frontend/dontchat.png "dontchat")
+
 Create a private chat over dontpad.
 Current language: PT-BR
 
