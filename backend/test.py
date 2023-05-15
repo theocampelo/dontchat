@@ -10,6 +10,7 @@ user = os.environ.get("USER")
 def getRoomName():
     os.system('clear')
     print(":: DontChat alpha0.1 :: [ sala: --- ]", end="\n\n")
+    os.system('echo; cat frontend/banner');
     return input("Digite o nome da sala> ")
 
 def protoMenu(session, room, roomAlias):
